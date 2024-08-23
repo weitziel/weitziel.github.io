@@ -1,9 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-N:Олег;Вейтцель;Олегович;;
-FN:Вейтцель Олег
-NICKNAME:
-ORG:к.т.н.
+N;CHARSET=UTF-8:Олег;Вейтцель;Олегович;;
+FN;CHARSET=UTF-8:Вейтцель Олег
+NICKNAME;CHARSET=UTF-8:
+ORG;CHARSET=UTF-8:к.т.н.
 EMAIL;type=INTERNET;type=HOME;type=pref:weitziel@mail.ru
 TEL;type=CELL;type=VOICE;type=pref:+7 981 124-81-78
 URL;type=pref:https://weitziel.github.io/
@@ -11,7 +11,7 @@ BDAY:
 X-SOCIALPROFILE;type=WhatsApp:+79811248178
 X-SOCIALPROFILE;type=Telegram:
 X-SOCIALPROFILE;type=GitHub:https://weitziel.github.io/
-NOTE:Вейтцель Олег главный специалист крупного интегратора промышленной автоматизации
+NOTE;CHARSET=UTF-8:Вейтцель Олег главный специалист крупного интегратора промышленной автоматизации
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAAkACQAAD/4QB0RXhpZgAATU0AKgAA
  AAgABAEaAAUAAAABAAAAPgEbAAUAAAABAAAARgEoAAMAAAABAAIAAIdpAAQAAAABAAAATgAAAA
  AAAACQAAAAAQAAAJAAAAABAAKgAgAEAAAAAQAABgqgAwAEAAAAAQAABgoAAAAA/+0AOFBob3Rv
